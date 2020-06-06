@@ -1,2 +1,2 @@
 # CV
-Personal pageHTML
+Personal page HTML only
